@@ -1,0 +1,15 @@
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\bin\Debug\net8.0\mis-221-lab-4-lhnguyen015.exe
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\bin\Debug\net8.0\mis-221-lab-4-lhnguyen015.deps.json
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\bin\Debug\net8.0\mis-221-lab-4-lhnguyen015.runtimeconfig.json
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\bin\Debug\net8.0\mis-221-lab-4-lhnguyen015.dll
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\bin\Debug\net8.0\mis-221-lab-4-lhnguyen015.pdb
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\mis-221-lab-4-lhnguyen015.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\mis-221-lab-4-lhnguyen015.AssemblyInfoInputs.cache
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\mis-221-lab-4-lhnguyen015.AssemblyInfo.cs
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\mis-221-lab-4-lhnguyen015.csproj.CoreCompileInputs.cache
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\mis-221-lab-4-lhnguyen015.sourcelink.json
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\mis-221-lab-4-lhnguyen015.dll
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\refint\mis-221-lab-4-lhnguyen015.dll
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\mis-221-lab-4-lhnguyen015.pdb
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\mis-221-lab-4-lhnguyen015.genruntimeconfig.cache
+D:\Users\tommy\MIS221\mis-221-lab-4-lhnguyen015\obj\Debug\net8.0\ref\mis-221-lab-4-lhnguyen015.dll
